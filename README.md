@@ -1,8 +1,8 @@
-# AI Translator
+#AI Translator
 
 A Python AI-powered translation application built with the OpenAI API.
 
-## Features
+##Features
 
 - Translate text into a target language
 
@@ -24,7 +24,7 @@ A Python AI-powered translation application built with the OpenAI API.
 
 - Environment-based configuration
 
-## Architecture
+##Architecture
 
 ```text
 User
@@ -42,7 +42,7 @@ api.py
 OpenAI
 
 
-## Running the Project
+##Running the Project
 
 Make sure you are in the project root:
 
@@ -50,7 +50,7 @@ Make sure you are in the project root:
 
 python -m src.main
 
-## Run all tests:
+##Run all tests:
 
 python -m pytest
 
