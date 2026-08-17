@@ -86,6 +86,7 @@ Create a `.env` file in the project root:
 
 ```text
 OPENAI_API_KEY=your_api_key_here
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
 ```
 
 Never commit `.env` to Git.
